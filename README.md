@@ -72,6 +72,6 @@ Nginx
 Docker & Docker Compose
 
 ## 👤 Autores
-Fransueudes Alexandre Freitas
-Joao Antonio dos Santos Ilario
+Fransueudes Alexandre Freitas |
+Joao Antonio dos Santos Ilario |
 📍 Palmas - TO
